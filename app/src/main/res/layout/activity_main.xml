@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
-    tools:context="com.example.juan.projecto_android.MainActivity"
+    tools:context="com.example.androiddam.proyectofinalandroid.MainActivity"
     android:orientation="vertical">
 
     <ImageView
